@@ -1,0 +1,14 @@
+#title {
+  text-align: center;
+  background-color: rgb(63, 52, 118);
+  padding: 2rem;
+}
+
+#Navbar {
+  height: 2.5rem;
+  padding-left: 1.5rem;
+}
+
+.Section-Header {
+  padding-top: 2rem;
+}
