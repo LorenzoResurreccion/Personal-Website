@@ -3,7 +3,7 @@ export const Experience = () => {
     return <div id="Experience">
         <h1 className="Section-Header">Experience</h1>
         <div>
-            <h5>Course Assstant</h5>
+            <h3>Course Assstant</h3>
             <p>
                 While attending UW-Madison, I worked in the Math Learning Center (MLC). 
                 For the MLC I was a Course Assistant for Number Theory, Combinatorics, and Cryptography.
@@ -21,8 +21,8 @@ export const Experience = () => {
             </ul>
             <p>This helped me develop various skills including: </p>
             <ul>
-                <li>Ability to breakdown and explain complex problems simply</li>
-                <li>Ability to view the same problem in various ways and solve using different perspectivs/approaches</li>
+                <li>Ability to breakdown and explain complex problems simply to multiple people with various levels of understanding</li>
+                <li>Ability to view the same problem in various ways and solve it using different perspectivs/approaches</li>
             </ul>
         </div>
     </div>

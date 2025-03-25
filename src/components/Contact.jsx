@@ -2,7 +2,7 @@
 export const Contact = () => {
     return <div id="Contact">
         <h1 className="Section-Header">Contact</h1>
-        <p>Below are some of the ways you can contact me as well as an additional link to my Gihub.</p>
+        <p>Below are some of the ways to contact me as well as my Github.</p>
         <ul>
             <li>Email: <a href="mailto:Lorenzo.rez07@gmail.com">Lorenzo.rez07@gmail.com</a></li>
             <li>Phone: 651-343-6244</li>

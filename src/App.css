@@ -1,14 +1,52 @@
 #title {
   text-align: center;
-  background-color: rgb(63, 52, 118);
+  background-color: rgb(97, 97, 118);
   padding: 2rem;
+  color: white;
+  font-family: Castellar;
 }
 
 #Navbar {
   height: 2.5rem;
   padding-left: 1.5rem;
 }
-
+#App {
+  background-color: rgb(97, 97, 118);
+  padding-bottom: 1rem;
+  font-family: 'Cambria';
+  
+}
 .Section-Header {
   padding-top: 2rem;
+  font-weight: bold;
+}
+
+.body-dark {
+  background-color: black;
+  color: azure;
+  padding-bottom: 2rem;
+}
+
+.body-light {
+  background-color: rgb(255, 254, 254);
+  color: black;
+  padding-bottom: 2rem;
+}
+
+#toggle {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: block;
+}
+
+#button-img {
+ max-height: 3rem;
+}
+
+p {
+  font-size: 1.1rem;
+}
+li {
+  font-size: 1.1rem;
 }
