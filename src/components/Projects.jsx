@@ -32,6 +32,7 @@ export const Projects = () => {
                 <h5>Fun!</h5>
                 <ul>
                     <li>Cryptopals Coding Challenges - Python</li>
+                    <li>Trying to learn AWS and make more Fullstack Applications</li>
                 </ul>
             </Container>
             
