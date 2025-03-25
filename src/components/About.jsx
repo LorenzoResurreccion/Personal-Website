@@ -4,8 +4,8 @@ export const About = () => {
         <h1 className="Section-Header">About Me</h1>
         <div>
             <p>
-                I grew up in Apple Valley, MN with two parents and an older sister. Both my parents are sofware developers so I suppose it
-                was inevitable that I became one too. I graduated from UW-Madison with a Bachelors of Science Degree, 
+                I grew up in Apple Valley, MN with two parents and an older sister. Both my parents are sofware developers so 
+                when they pushed me to try programming, I found it very interesting. I graduated from UW-Madison with a Bachelors of Science Degree, 
                 double majorinig in Computer Science and Mathematics
             </p>
             <p>
