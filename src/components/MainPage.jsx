@@ -6,6 +6,7 @@ import Projects from "./Projects"
 import Contact from "./Contact"
 import { useContext } from "react"
 import { DarkModeContext } from "../Context/DarkModeContext"
+import Hello from "./Hello"
 
 
 function MainPage(props) {
@@ -20,6 +21,7 @@ function MainPage(props) {
         </div>
         <Basic_Nav/>
         <Container className={darkMode ? 'body-dark' :  'body-light'}>
+            <Hello/>
             <About/>
             <Experience/>
             <Projects/>
