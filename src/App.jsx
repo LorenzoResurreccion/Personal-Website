@@ -6,7 +6,7 @@ import {DarkModeProvider} from './Context/DarkModeContext';
 
 function App() {
   return (
-    <div id='App'>
+    <div >
       <DarkModeProvider>
         <MainPage/>
     </DarkModeProvider>

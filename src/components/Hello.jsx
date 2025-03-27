@@ -5,7 +5,8 @@ function Hello() {
     const [hello, setHello] = useState('loading...')
 
     useEffect (() => {
-        fetch('http://127.0.0.1:8000/', {
+        fetch('https://cyjxnplrzom5kifvhsswvta6jm0peevn.lambda-url.us-east-1.on.aws/', {
+        
         }) 
         .then(res => res.json())
         .then( json => {
@@ -18,7 +19,7 @@ function Hello() {
 
     return (
       <div id='Hello'>
-        <h1 className="Section-Header">Welcome!</h1>
+        <h1 style={{paddingTop: '0.5rem'}}className="Section-Header">Welcome!</h1>
         <p>I've created this website myself to act as my portfolio website, but I also wanted to use it as a valuable
             learning experience and thus also built and deployed a simple api that it calls to say:
         </p>

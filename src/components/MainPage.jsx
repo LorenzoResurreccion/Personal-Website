@@ -20,7 +20,7 @@ function MainPage(props) {
           <h1>LORENZO RESURRECCION</h1>
         </div>
         <Basic_Nav/>
-        <Container className={darkMode ? 'body-dark' :  'body-light'}>
+        <Container style={{paddingLeft: '2rem', paddingRight: '2rem'}}className={darkMode ? 'body-dark' :  'body-light'}>
             <Hello/>
             <About/>
             <Experience/>

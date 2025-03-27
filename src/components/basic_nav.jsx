@@ -8,7 +8,7 @@ export const Basic_Nav = (props) => {
 
 
     return <Navbar id='Navbar' bg="dark" data-bs-theme="dark" sticky='top'>
-          <Navbar.Brand href="#Home">Lorenzo Resurreccion</Navbar.Brand>
+          <Navbar.Brand>Lorenzo Resurreccion</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#About">About</Nav.Link>
             <Nav.Link href="#Experience">Experience</Nav.Link>
