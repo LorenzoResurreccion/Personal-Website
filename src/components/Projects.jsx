@@ -5,7 +5,7 @@ export const Projects = () => {
         <h1 className="Section-Header">Projects</h1>
         <div>
             <p>
-                I've completed various projects both on my own and through classes.
+                I've completed various projects, both on my own and through classes.
                 My <a href="https://github.com/LorenzoResurreccion" target="_blank" rel="noopener noreferrer">Github</a> contains 
                 some of these projects and is where I will continue to update the projects I am currently working on.
             </p>

@@ -5,18 +5,18 @@ export const Experience = () => {
         <div>
             <h3>Course Assistant</h3>
             <p>
-                While attending UW-Madison, I worked in the Math Learning Center (MLC). 
+                While attending UW-Madison, I worked at the Math Learning Center (MLC). 
                 I was a Course Assistant for Number Theory, Combinatorics, and Cryptography.
                 In my role I had various responsibilities including:
             </p>
             <ul>
                 <li>Holding weekly office hours to help students by explaining important concepts 
-                    and helping solve practice problems/homework questions</li>
+                    and helping solve practice problems/homework questions.</li>
                 <li>Communicating with professors to update them on how students were doing, identify
-                    areas that students struggled with, and discuss how we could improve going forward
+                    areas that students struggled with, and discuss how we could improve going forward.
                 </li>
-                <li>Communicating with colleagues to ensure shifts were filled if emergencies came up and 
-                    compared our observations to collectively improve the office hours we held
+                <li>Communicating with colleagues to ensure shifts were filled in case of emergencies and to
+                    compare observations to collectively improve our office hours.
                 </li>
             </ul>
         </div>

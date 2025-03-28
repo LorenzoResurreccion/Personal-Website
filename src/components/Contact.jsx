@@ -2,7 +2,7 @@
 export const Contact = () => {
     return <div id="Contact">
         <h1 className="Section-Header">Contact</h1>
-        <p>Below are some of the ways to contact me as well as my Github.</p>
+        <p>Below is my contact information.</p>
         <ul>
             <li>Email: <a href="mailto:Lorenzo.rez07@gmail.com">Lorenzo.rez07@gmail.com</a></li>
             <li>Phone: 651-343-6244</li>

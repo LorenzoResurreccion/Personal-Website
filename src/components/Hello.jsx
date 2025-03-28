@@ -21,7 +21,7 @@ function Hello() {
       <div id='Hello'>
         <h1 style={{paddingTop: '0.5rem'}}className="Section-Header">Welcome!</h1>
         <p>I've created this website myself to act as my portfolio website, but I also wanted to use it as a valuable
-            learning experience and thus also built and deployed a simple api that it calls to say:
+            learning experience. Thus I've built and deployed a simple API that it calls to say:
         </p>
         <p style={{fontWeight:'bold'}}>{hello}</p>
       </div>

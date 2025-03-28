@@ -15,7 +15,7 @@ export const Basic_Nav = (props) => {
             <Nav.Link href="#Projects">Projects</Nav.Link>
             <Nav.Link href="#Contact">Contact</Nav.Link>
             <div id = 'toggle' onClick={toggleMode}>
-              <img id='button-img' src= '/src/assets/mode.png' alt="light-bulb"/>
+              <img id='button-img' src= '/mode.png' alt="light-bulb"/>
             </div>
           </Nav>
         
